@@ -41,5 +41,4 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 
 </samp>
 </details>
-----
-Credits: [TanZng](https://github.com/TanZng)
+
