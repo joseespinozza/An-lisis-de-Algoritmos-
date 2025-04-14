@@ -1,2 +1,45 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
-<h1 align="center">Hi 👋, I'm Max</h1>
+<p align="center">
+  <br>
+  <samp>
+    Holaaa! Me llamo <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/joseespinozza">Jose</a></b>.
+    <br>Soy un estudiante de Computacion de la Universidad Tecnica Particular de Loja.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">INGENIERIA&nbsp;EN SISTEMAS !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
+Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+</p> 
+
+
+</samp>
+</details>
+----
+Credits: [TanZng](https://github.com/TanZng)
