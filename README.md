@@ -13,7 +13,7 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> ANALISIS DE ALGORITMOS </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">INGENIERIA&nbsp;EN SISTEMAS !</h2> </b>
 
